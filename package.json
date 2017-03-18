@@ -1,5 +1,5 @@
 {
-  "name": "74Labs/loopback-component-visualizer",
+  "name": "loopback-component-visualizer",
   "version": "1.0.2",
   "description": "Loopback component to visualize models and their relationships",
   "main": "./index.js",
