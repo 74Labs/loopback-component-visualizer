@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-visualizer",
+  "name": "74Labs/loopback-component-visualizer",
   "version": "1.0.2",
   "description": "Loopback component to visualize models and their relationships",
   "main": "./index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yantrashala/loopback-component-visualizer.git"
+    "url": "git+https://github.com/74Labs/loopback-component-visualizer.git"
   },
   "contributors": ["prashantbaid", "pbhadauria2000", "mennu"],
   "author": "prashantbaid, pbhadauria2000",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yantrashala/loopback-component-visualizer/issues"
+    "url": "https://github.com/74Labs/loopback-component-visualizer/issues"
   },
-  "homepage": "https://github.com/yantrashala/loopback-component-visualizer#readme",
+  "homepage": "https://github.com/74Labs/loopback-component-visualizer",
   "dependencies": {
     "lodash": "^4.12.0"
   },
