@@ -14,7 +14,7 @@ loopback-component-visualizer helps you in creating a model diagram with the rel
 #### Installation
 
 ```sh
-$ npm install loopback-component-visualizer
+$ npm install 74Labs/loopback-component-visualizer
 ```
 
 #### Usage
